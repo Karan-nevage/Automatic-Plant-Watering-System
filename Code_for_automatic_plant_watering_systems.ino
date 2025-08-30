@@ -1,14 +1,3 @@
-//
-//# Automatic Plant watering system
-//# python LANGUAGE PROJECT 
-//#https://github.com/tueuer/Automatic-Plant-Watering-System
-//# https://github.com/tueuer
-//connect with me on linkedin
-//https://www.linkedin.com/in/karankumar-nevage
-//# AUTHOR:-Karankumar Nevage 
-
-
-
 
 Int water; //random variable 
 void setup() {
@@ -28,3 +17,4 @@ void loop() {
   }
   delay(1000); 
 }
+
